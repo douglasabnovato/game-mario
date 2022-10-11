@@ -13,6 +13,7 @@
 - [ ] design personalizado
 - [ ] responsividade: jogar em desktop, jogar em mobile.
 - [ ] favicon
+- [ ] criar mais funcionalidades
 
 #### Telas
 
@@ -30,4 +31,4 @@
 
 #### Inspirações para aperfeiçoamentos  
 
-- Funcionalidades de um jogo para desktop e para mobile
+- Jogo para desktop e para mobile
