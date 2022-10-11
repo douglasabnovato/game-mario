@@ -1,3 +1,33 @@
-### mario game
+<h4 align="center"> 
+	🚧 Game Mário 🚀
+</h4>
 
-- projeto da aula ao vivo - 7a semana
+<h1 align="center">
+    <img alt="game-mario" title="#game-mario" src="./.github/desktop-1.jpg" />
+</h1>
+
+- Projeto de um Game do Mário.
+
+#### Requisitos
+
+- [ ] design personalizado
+- [ ] responsividade: jogar em desktop, jogar em mobile.
+- [ ] favicon
+
+#### Telas
+
+- Desktop
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img alt="game-mario" title="#game-mario" src="./.github/desktop-1.jpg" width="400px"/>
+</p>
+
+- Mobile
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img alt="game-mario" title="#game-mario" src="./.github/mobile-1.jpg" height="400px"/>
+</p>
+
+#### Inspirações para aperfeiçoamentos  
+
+- Funcionalidades de um jogo para desktop e para mobile
