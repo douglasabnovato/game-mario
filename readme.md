@@ -3,7 +3,7 @@
 </h4>
 
 <h1 align="center">
-    <img alt="game-mario" title="#game-mario" src="./.github/desktop-1.jpg" />
+    <img alt="game-mario" title="#game-mario" src="./.github/desktop-3.jpg" />
 </h1>
 
 - Projeto de um Game do Mário.
@@ -50,7 +50,8 @@
 - Desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    <img alt="game-mario" title="#game-mario" src="./.github/desktop-1.jpg" width="400px"/>
+    <img alt="game-mario" title="#game-mario" src="./.github/desktop-3.jpg" width="400px"/>
+    <img alt="game-mario" title="#game-mario" src="./.github/desktop-2.jpg" width="400px"/>
 </p>
 
 - Mobile
