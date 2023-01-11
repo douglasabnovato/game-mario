@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧 Game Mário 🚀
+	🚧 Game Mario 🚀
 </h4>
 
 <h1 align="center">
