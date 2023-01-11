@@ -16,8 +16,8 @@
 
 #### Funcionalidades
 
-- [ ] frente, trás, agachar, pular
-- [ ] morrer nos obstáculos
+- [x] frente, trás, agachar, pular
+- [x] morrer nos obstáculos
 - [ ] incrementar cenário
 - [ ] mudar cenário depois de um tempo
 - [ ] reduzir velocidade da fase
@@ -25,11 +25,11 @@
 
 #### Tools
 
-- [ ] Extensão Live Server no VSCode
+- [x] Extensão Live Server no VSCode
 
 #### Branches
 
-- [ ] v0.0-developer: código inicial
+- [x] v0.0-developer: código inicial
 - [ ] v1.0-zeus: funcionalidades 
 
 #### Telas
