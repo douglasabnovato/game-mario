@@ -13,7 +13,14 @@
 - [ ] design personalizado
 - [ ] responsividade: jogar em desktop, jogar em mobile.
 - [ ] favicon
-- [ ] criar mais funcionalidades
+
+#### Funcionalidades
+
+- [ ] frente, trás, agachar, pular
+- [ ] morrer nos obstáculos
+- [ ] mudar cenário depois de um tempo
+- [ ] reduzir velocidade da fase
+- [ ] aumentar velocidade da fase
 
 #### Telas
 
