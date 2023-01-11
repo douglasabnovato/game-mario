@@ -23,6 +23,10 @@
 - [ ] reduzir velocidade da fase
 - [ ] aumentar velocidade da fase
 
+#### Tools
+
+- [ ] Extensão Live Server no VSCode
+
 #### Telas
 
 - Desktop
