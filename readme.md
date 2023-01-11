@@ -33,6 +33,9 @@
 - [ ] quando perder a partida deve exibir uma tela de game over
 - [ ] exibir o ranking com os resultados de jogo com nome, moedas e tempo
 
+#### warning
+- [ ] [para corrigir](https://www.youtube.com/watch?v=nB_mvtTAwmM)
+
 #### Branches
 
 - [x] v0.0-developer: código inicial
