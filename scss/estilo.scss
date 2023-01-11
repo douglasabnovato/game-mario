@@ -2,7 +2,6 @@
 @import 'animacoes';
 @import 'modal';
 
-// Importação de fonte
 @font-face {
     font-family: 'mario';
     src: url('../fonts/SuperMario256.ttf');
@@ -34,14 +33,6 @@
             animation: move-nuvens 20s infinite linear 9s;
         }
 
-        // .img-tubo {
-        //     animation: mover-elementos 3s infinite linear;
-        // }
-
-        // .img-bala {
-        //     animation: mover-elementos 3s infinite linear 1.5s;
-        // }
-
         .img-moeda {
             animation: mover-elementos 2.5s infinite linear;
         }
@@ -63,7 +54,6 @@
         }
     }
 
-    // Topo - Placar
     .header {
         width: 100%;
         display: flex;
@@ -195,21 +185,18 @@
     .img-tubo {
         position: absolute;
         bottom: 0;
-        // left: 250px; // temporario
         right: -80px;
     }
 
     .img-bala {
         position: absolute;
         bottom: 100px;
-        // left: 520px; // temporario
         right: -130px;
     }
 
     .img-moeda {
         position: absolute;
         bottom: 170px;
-        // left: 220px; // temporario
         right: -50px;
     }
 
@@ -234,8 +221,6 @@
 
 }
 
-
-// Estilo global
 .azul {
     color: $corAzul
 }

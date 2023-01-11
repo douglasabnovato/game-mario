@@ -1,8 +1,6 @@
-// Importações
 import * as conexoes from './conexao.js';
 import * as modulos from './modulos.js';
 
-// Elementos Globais
 const inputJogador = document.querySelector('#inputJogador');
 const btnStart = document.querySelector('#btnStart');
 const modal = document.querySelector('#modal');
@@ -19,7 +17,6 @@ const imgEstrelas = document.querySelectorAll('#imgEstrela');
 const txtMoedas = document.querySelector('#txtMoedas');
 const txtEstrelas = document.querySelector('#txtEstrelas');
 
-// Variáveis Globais
 let nomeJogador;
 let moedasJogador = 0;
 let estrelasJogador = 0;
@@ -30,9 +27,7 @@ let tempoTime;
 let tempoMoverElementos;
 let tempoPegarElementos;
 
-// Funções
 const validarJogador = ({ target }) => {
-    // console.log(target.value);
 
     if (target.value.length > 2) {
         btnStart.removeAttribute('disabled');
@@ -54,7 +49,6 @@ const validarJogador = ({ target }) => {
 };
 
 const iniciarJogo = () => {
-    // modulos.playSom('somAbertura');
     inputJogador.addEventListener('input', validarJogador);
 };
 iniciarJogo();
@@ -62,7 +56,6 @@ iniciarJogo();
 const start = () => {
     modulos.limparTexto();
     modulos.stopSom('somAbertura');
-    // modulos.playSom('somPrincipal');
     document.addEventListener('keydown', modulos.pular);
     document.addEventListener('keydown', modulos.voar);
     document.addEventListener('keydown', modulos.abaixar);
