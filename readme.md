@@ -27,6 +27,11 @@
 
 - [ ] Extensão Live Server no VSCode
 
+#### Branches
+
+- [ ] v0.0-developer: código inicial
+- [ ] v1.0-zeus: funcionalidades 
+
 #### Telas
 
 - Desktop
