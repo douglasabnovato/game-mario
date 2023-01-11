@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧 Game Mário 🚀
+	🚧 Game Mario 🚀
 </h4>
 
 <h1 align="center">
@@ -16,8 +16,11 @@
 
 #### Funcionalidades
 
-- [ ] frente, trás, agachar, pular
-- [ ] morrer nos obstáculos
+#### v0.0
+- [x] frente, trás, agachar, pular
+- [x] morrer nos obstáculos
+
+#### v1.0
 - [ ] incrementar cenário
 - [ ] mudar cenário depois de um tempo
 - [ ] reduzir velocidade da fase
@@ -25,11 +28,11 @@
 
 #### Tools
 
-- [ ] Extensão Live Server no VSCode
+- [x] Extensão Live Server no VSCode
 
 #### Branches
 
-- [ ] v0.0-developer: código inicial
+- [x] v0.0-developer: código inicial
 - [ ] v1.0-zeus: funcionalidades 
 
 #### Telas
