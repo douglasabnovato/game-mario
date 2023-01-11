@@ -16,8 +16,11 @@
 
 #### Funcionalidades
 
+#### v0.0
 - [x] frente, trás, agachar, pular
 - [x] morrer nos obstáculos
+
+#### v1.0
 - [ ] incrementar cenário
 - [ ] mudar cenário depois de um tempo
 - [ ] reduzir velocidade da fase
