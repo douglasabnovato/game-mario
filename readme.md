@@ -18,6 +18,7 @@
 
 - [ ] frente, trás, agachar, pular
 - [ ] morrer nos obstáculos
+- [ ] incrementar cenário
 - [ ] mudar cenário depois de um tempo
 - [ ] reduzir velocidade da fase
 - [ ] aumentar velocidade da fase
