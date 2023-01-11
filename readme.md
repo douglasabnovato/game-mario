@@ -12,7 +12,7 @@
 
 - [ ] design personalizado
 - [ ] responsividade: jogar em desktop, jogar em mobile.
-- [ ] favicon
+- [x] favicon
 
 #### Funcionalidades
 
@@ -21,14 +21,13 @@
 - [x] morrer nos obstáculos
 
 #### v1.0
-- [ ] incrementar cenário
+- [x] o jogador informa o nome a ser salvo
+- [x] botão de play para iniciar o jogo
+- [x] ter um time crescente de jogo
+- [x] capturar moedas
 - [ ] mudar cenário depois de um tempo
 - [ ] reduzir velocidade da fase
 - [ ] aumentar velocidade da fase
-- [ ] o jogador informa o nome a ser salvo
-- [ ] botão de play para iniciar o jogo
-- [ ] ter um time crescente de jogo
-- [ ] capturar moedas
 - [ ] quando perder a partida deve exibir uma tela de game over
 - [ ] exibir o ranking com os resultados de jogo com nome, moedas e tempo
 
@@ -58,3 +57,4 @@
 #### Inspirações para aperfeiçoamentos  
 
 - Jogo para desktop e para mobile
+- [Vídeos](https://www.youtube.com/@DarlanPAraujo)

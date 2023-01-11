@@ -6,10 +6,9 @@ const getBanco = () => {
     return JSON.parse(localStorage.getItem('bd-mario')) ?? [];
 };
 
-
 const bancoTemp = (nome, moedas, estrelas, tempo, pontuacao) => {
 
-    let banco = getBanco(); // <-- Array
+    let banco = getBanco(); 
 
     let dados = {
         nomeJogador: nome,
